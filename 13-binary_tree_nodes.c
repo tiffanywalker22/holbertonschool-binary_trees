@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_nodes - counts the nodes in a binary tree
- * @tree: pointer to root node of tree to count the num of nodes
+ * @tree: pointer to root node of tree to count num of nodes
  * Return: number of nodes, 0 if NULL
  */
 size_t binary_tree_nodes(const binary_tree_t *tree)
